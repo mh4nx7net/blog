@@ -8,9 +8,10 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>Hi sandiko</h1>
+    <p>it's your first gatsbyjs static site.</p>
+    <p>enjoy to deploy, break your code for cheap coffe.. and yeaayy.</p>
+    <p>no debug, just like other's autism man at the corner!!</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
