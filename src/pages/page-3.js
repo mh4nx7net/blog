@@ -5,7 +5,7 @@ import Layout from "../components/layout"
 import SEO from "../components/seo"
 
 //var of ThirdPage
-const SecondPage = () => (
+const ThirdPage = () => (
   <Layout>
     <SEO title="Page two" />
     <h1>Hi it's for page 3 guys</h1>
